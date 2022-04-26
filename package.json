@@ -1,5 +1,5 @@
 {
-  "name": "my-name",
+  "name": "my-name-getter",
   "version": "1.0.0",
   "description": "get my name",
   "main": "index.js",
