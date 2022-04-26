@@ -7,5 +7,13 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "ise540",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ise540/my-name.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ise540/my-name/issues"
+  },
+  "homepage": "https://github.com/ise540/my-name#readme"
 }
